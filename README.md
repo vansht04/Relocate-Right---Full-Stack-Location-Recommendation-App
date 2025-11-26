@@ -1,0 +1,2 @@
+# Relocate-Right---Full-Stack-Location-Recommendation-App
+Relocate Right is a full-stack, map-driven location recommendation platform designed to help users find the best areas to live based on their personal priorities. Built with React, TypeScript, Node.js/Express, MongoDB, and Leaflet/OpenStreetMap, the app delivers data-backed relocation insights through an intuitive and interactive experience.
