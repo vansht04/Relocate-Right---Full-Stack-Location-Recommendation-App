@@ -383,7 +383,7 @@ const Index = () => {
               <span className="font-semibold text-foreground">Relocate Right</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2024 Relocate Right. Helping you find the perfect place to call home.
+              © 2026 Relocate Right. Helping you find the perfect place to call home.
             </p>
           </div>
         </div>
